@@ -1,5 +1,5 @@
-import './Experiment7App.css'
-import Student from './EXperiment7.jsx'
+import './experiment7App.css'
+import Student from './experiment7.jsx'
 
 function App() {
 
